@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407611Z
+addr = 0x1b0e30
+size = 0x216
+name = "CGameResourceService_LoadGameResourceManifestNamed"
+type = "long long"
+
+[header]
+name = "CGameResourceService_LoadGameResourceManifestNamed"
+addr = 0x1b0e30
+type = "long long"
+
+[header.args]

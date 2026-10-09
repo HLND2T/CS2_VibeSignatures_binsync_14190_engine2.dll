@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407760Z
+addr = 0x1e2b00
+size = 0x54
+name = "CNetworkServerService_SetFinalSimulationTickThisFrame"
+type = "netadr_t *"
+
+[header]
+name = "CNetworkServerService_SetFinalSimulationTickThisFrame"
+addr = 0x1e2b00
+type = "netadr_t *"
+
+[header.args]

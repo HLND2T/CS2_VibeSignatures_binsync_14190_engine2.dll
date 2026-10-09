@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407561Z
+addr = 0xe2690
+size = 0x1db
+name = "CLog_Print"
+type = "void"
+
+[header]
+name = "CLog_Print"
+addr = 0xe2690
+type = "void"
+
+[header.args]

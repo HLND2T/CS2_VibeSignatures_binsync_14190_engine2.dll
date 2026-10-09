@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407350Z
+addr = 0x9dd60
+size = 0xa4
+name = "CNetworkGameServer_CreateNewClient"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_CreateNewClient"
+addr = 0x9dd60
+type = "long long"
+
+[header.args]

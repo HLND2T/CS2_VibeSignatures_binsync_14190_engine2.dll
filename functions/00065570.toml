@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:14.802481Z
+addr = 0x65570
+size = 0x1274
+name = "CNetworkGameClientBase__ProcessNetworking"
+type = "void"
+
+[header]
+name = "CNetworkGameClientBase__ProcessNetworking"
+addr = 0x65570
+type = "void"
+
+[header.args]

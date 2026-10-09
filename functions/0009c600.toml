@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407342Z
+addr = 0x9c600
+size = 0xd4
+name = "CNetworkGameServerBase_SetMaxClients"
+type = "double"
+
+[header]
+name = "CNetworkGameServerBase_SetMaxClients"
+addr = 0x9c600
+type = "double"
+
+[header.args]

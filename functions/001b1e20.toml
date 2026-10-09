@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407626Z
+addr = 0x1b1e20
+size = 0x99
+name = "CGameResourceService_DescribeContents"
+type = "void"
+
+[header]
+name = "CGameResourceService_DescribeContents"
+addr = 0x1b1e20
+type = "void"
+
+[header.args]

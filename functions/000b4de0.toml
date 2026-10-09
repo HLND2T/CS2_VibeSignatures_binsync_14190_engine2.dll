@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:15.811567Z
+addr = 0xb4de0
+size = 0x1a6
+name = "CNetworkGameServerBase_ServerAdvanceTick"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_ServerAdvanceTick"
+addr = 0xb4de0
+type = "long long"
+
+[header.args]

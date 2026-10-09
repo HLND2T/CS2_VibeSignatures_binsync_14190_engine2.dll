@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407459Z
+addr = 0xaf520
+size = 0x4f2
+name = "CNetworkGameServerBase_Shutdown"
+type = "_UNKNOWN **"
+
+[header]
+name = "CNetworkGameServerBase_Shutdown"
+addr = 0xaf520
+type = "_UNKNOWN **"
+
+[header.args]

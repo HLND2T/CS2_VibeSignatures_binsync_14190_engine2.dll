@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:17.060931Z
+addr = 0x205140
+size = 0x3b1
+name = "InitSteam"
+type = "int"
+
+[header]
+name = "InitSteam"
+addr = 0x205140
+type = "int"
+
+[header.args]

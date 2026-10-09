@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:17.252422Z
+addr = 0x21cf30
+size = 0x283
+name = "CLoopTypeBase_GenerateServiceDependencies"
+type = "char"
+
+[header]
+name = "CLoopTypeBase_GenerateServiceDependencies"
+addr = 0x21cf30
+type = "char"
+
+[header.args]

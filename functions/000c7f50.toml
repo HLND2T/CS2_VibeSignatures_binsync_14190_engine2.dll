@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407533Z
+addr = 0xc7f50
+size = 0x16
+name = "CServerSideClientBase_ProcessSpawnGroup_LoadCompleted"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessSpawnGroup_LoadCompleted"
+addr = 0xc7f50
+type = "char"
+
+[header.args]

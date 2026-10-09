@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:17.407678Z
+addr = 0x2327d0
+size = 0x6f9
+name = "CLoopTypeSimple_FrameUpdate"
+type = "long long"
+
+[header]
+name = "CLoopTypeSimple_FrameUpdate"
+addr = 0x2327d0
+type = "long long"
+
+[header.args]

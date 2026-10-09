@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:17.070320Z
+addr = 0x20a7c0
+size = 0x65f
+name = "MainLoop"
+type = "void"
+
+[header]
+name = "MainLoop"
+addr = 0x20a7c0
+type = "void"
+
+[header.args]

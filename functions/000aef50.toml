@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407455Z
+addr = 0xaef50
+size = 0x38c
+name = "CNetworkGameServer_GetFreeClient"
+type = "long long"
+
+[header]
+name = "CNetworkGameServer_GetFreeClient"
+addr = 0xaef50
+type = "long long"
+
+[header.args]

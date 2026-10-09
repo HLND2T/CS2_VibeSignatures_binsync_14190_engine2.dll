@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407417Z
+addr = 0xa1e90
+size = 0x11
+name = "CEngineServer_KickClient"
+type = "void"
+
+[header]
+name = "CEngineServer_KickClient"
+addr = 0xa1e90
+type = "void"
+
+[header.args]

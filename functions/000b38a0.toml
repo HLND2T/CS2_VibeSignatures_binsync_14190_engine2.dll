@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407472Z
+addr = 0xb38a0
+size = 0x9
+name = "CNetworkGameServerBase_GetTimescale"
+type = "float"
+
+[header]
+name = "CNetworkGameServerBase_GetTimescale"
+addr = 0xb38a0
+type = "float"
+
+[header.args]

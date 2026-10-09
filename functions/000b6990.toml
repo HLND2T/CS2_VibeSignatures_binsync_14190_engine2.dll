@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407504Z
+addr = 0xb6990
+size = 0x1fe
+name = "CNetworkGameServerBase_ServiceQueue"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_ServiceQueue"
+addr = 0xb6990
+type = "void"
+
+[header.args]

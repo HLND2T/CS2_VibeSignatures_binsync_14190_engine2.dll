@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407755Z
+addr = 0x1e2880
+size = 0x15
+name = "CNetworkServerService_IsActiveInGame"
+type = "char"
+
+[header]
+name = "CNetworkServerService_IsActiveInGame"
+addr = 0x1e2880
+type = "char"
+
+[header.args]

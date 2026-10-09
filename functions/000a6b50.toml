@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407425Z
+addr = 0xa6b50
+size = 0x1d2
+name = "CNetworkGameServerBase_UserInfoChanged"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_UserInfoChanged"
+addr = 0xa6b50
+type = "long long"
+
+[header.args]

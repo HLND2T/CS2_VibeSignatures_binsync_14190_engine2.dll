@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407435Z
+addr = 0xa8600
+size = 0x113
+name = "CNetworkGameServerBase_SynchronizeAndBlockUntilLoaded"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_SynchronizeAndBlockUntilLoaded"
+addr = 0xa8600
+type = "void"
+
+[header.args]

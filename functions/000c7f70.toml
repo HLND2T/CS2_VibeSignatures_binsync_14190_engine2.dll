@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407534Z
+addr = 0xc7f70
+size = 0x143
+name = "CServerSideClientBase_ProcessStringCmd"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessStringCmd"
+addr = 0xc7f70
+type = "char"
+
+[header.args]

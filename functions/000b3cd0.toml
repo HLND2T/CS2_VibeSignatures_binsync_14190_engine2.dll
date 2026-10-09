@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407478Z
+addr = 0xb3cd0
+size = 0x521
+name = "CNetworkGameServerBase_StartChangeLevel"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_StartChangeLevel"
+addr = 0xb3cd0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:16.825686Z
+addr = 0x1dfeb0
+size = 0x3b3
+name = "CNetworkServerService_StartupServer"
+type = "double"
+
+[header]
+name = "CNetworkServerService_StartupServer"
+addr = 0x1dfeb0
+type = "double"
+
+[header.args]

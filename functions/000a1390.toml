@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407406Z
+addr = 0xa1390
+size = 0xb2
+name = "CEngineServer_ClientCommandKeyValues"
+type = "void"
+
+[header]
+name = "CEngineServer_ClientCommandKeyValues"
+addr = 0xa1390
+type = "void"
+
+[header.args]

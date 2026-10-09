@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:15.350460Z
+addr = 0xa09a0
+size = 0x46
+name = "CEngineServer_ClientPrintf"
+type = "void"
+
+[header]
+name = "CEngineServer_ClientPrintf"
+addr = 0xa09a0
+type = "void"
+
+[header.args]

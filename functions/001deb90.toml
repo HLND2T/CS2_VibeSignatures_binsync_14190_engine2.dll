@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:16.816415Z
+addr = 0x1deb90
+size = 0xc7b
+name = "CNetworkServerService_RegisterEventMapInternal"
+type = "void"
+
+[header]
+name = "CNetworkServerService_RegisterEventMapInternal"
+addr = 0x1deb90
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:15.848306Z
+addr = 0xb55d0
+size = 0x1bc
+name = "CNetworkGameServerBase_ServerEndSimulate"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_ServerEndSimulate"
+addr = 0xb55d0
+type = "long long"
+
+[header.args]

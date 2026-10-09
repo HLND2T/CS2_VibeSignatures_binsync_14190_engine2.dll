@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407813Z
+addr = 0x213e70
+size = 0xf6
+name = "CEngineServiceMgr_GetActiveLoop"
+type = "void"
+
+[header]
+name = "CEngineServiceMgr_GetActiveLoop"
+addr = 0x213e70
+type = "void"
+
+[header.args]

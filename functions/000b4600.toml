@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:15.794208Z
+addr = 0xb4600
+size = 0x30
+name = "CNetworkGameServerBase_GetServerNetworkAddress"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_GetServerNetworkAddress"
+addr = 0xb4600
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407709Z
+addr = 0x1d7820
+size = 0x95
+name = "CNetworkClientService_ReceivedServerInfo"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_ReceivedServerInfo"
+addr = 0x1d7820
+type = "long long"
+
+[header.args]

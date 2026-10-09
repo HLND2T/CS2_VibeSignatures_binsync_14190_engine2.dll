@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407441Z
+addr = 0xab870
+size = 0xb3d
+name = "CNetworkGameServerBase_FillKV3ServerInfo"
+type = "double"
+
+[header]
+name = "CNetworkGameServerBase_FillKV3ServerInfo"
+addr = 0xab870
+type = "double"
+
+[header.args]

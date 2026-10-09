@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407579Z
+addr = 0x106be0
+size = 0x47
+name = "CNetSupportImpl_Connect"
+type = "char"
+
+[header]
+name = "CNetSupportImpl_Connect"
+addr = 0x106be0
+type = "char"
+
+[header.args]

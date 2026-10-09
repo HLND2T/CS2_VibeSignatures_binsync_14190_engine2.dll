@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:12.407811Z
+addr = 0x213a40
+size = 0x67
+name = "CEngineServiceMgr_OnFrameRenderingFinished"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_OnFrameRenderingFinished"
+addr = 0x213a40
+type = "long long"
+
+[header.args]
